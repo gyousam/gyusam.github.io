@@ -2,4 +2,6 @@ blog
 
 1. git blog
 
-2.
+2. first commit
+
+3. new add file..
